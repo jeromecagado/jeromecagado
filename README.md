@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** C#, Java, Python, JavaScript/TypeScript  
-- **Frameworks:** .NET (Core & MAUI), Spring Boot, Django, React, React Native  
+- **Frameworks:** .NET (Core & MAUI), ASP.NET Core( Web API), Spring Boot, Django, React, React Native  
 - **Databases:** SQL Server, SQLite, PostgreSQL  
 - **Cloud & Tools:** Azure, AWS, Git/GitHub, CI/CD  
 
@@ -25,7 +25,7 @@
 ## 📌 Featured Projects
 - 🎮 [**Connect4Game**](https://github.com/jeromecagado/Connect4Game) – .NET MAUI desktop game with custom UI, sound effects, and AI opponent using heuristic strategy.  
 - 📊 [**Job Application Tracker**](https://github.com/jeromecagado/job-application-tracker) – Full-stack tracker with **Java Spring Boot backend** and planned **React Native frontend**, integrated with job search APIs.  
-- Currently working on a group collaborative project implementing a web based quiz for testing and review. 
+- 🧠 [**QuizIt**](https://github.com/ElijahA1/QuizApp) - Team project: React UI + ASP.NET Core API + PostgreSQL. I led the frontend (Category picker, multiple-choice flow) and integrated with the QuestionsController/DTOs to fetch questions and submit answers.
 
 ---
 
