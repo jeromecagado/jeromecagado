@@ -24,6 +24,7 @@
 
 ## 📌 Featured Projects
 🌐 Job Application Tracker
+https://github.com/jeromecagado/job-application-tracker
 
 Full-stack job search and tracking platform built with Java Spring Boot (backend) and React Native Web (Expo) (frontend).
 	•	Deployed on Microsoft Azure Static Web Apps with CI/CD via GitHub Actions.
@@ -31,11 +32,11 @@ Full-stack job search and tracking platform built with Java Spring Boot (backend
 	•	Supports saving and managing applied jobs locally using SQLite.
 
 🎮 Connect4Game
-
+https://github.com/jeromecagado/Connect4Game
 .NET MAUI desktop game featuring custom UI, sound effects, and an AI opponent using heuristic strategies.
 
 🧠 QuizIt
-
+https://github.com/ElijahA1/QuizApp
 Team project: React frontend + ASP.NET Core API + PostgreSQL.
 Led frontend development (category picker, multiple-choice flow) and integrated with backend controllers/DTOs.
 
