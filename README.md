@@ -23,9 +23,21 @@
 ---
 
 ## 📌 Featured Projects
-- 🎮 [**Connect4Game**](https://github.com/jeromecagado/Connect4Game) – .NET MAUI desktop game with custom UI, sound effects, and AI opponent using heuristic strategy.  
-- 📊 [**Job Application Tracker**](https://github.com/jeromecagado/job-application-tracker) – Full-stack tracker with **Java Spring Boot backend** and planned **React Native frontend**, integrated with job search APIs.  
-- 🧠 [**QuizIt**](https://github.com/ElijahA1/QuizApp) - Team project: React UI + ASP.NET Core API + PostgreSQL. I led the frontend (Category picker, multiple-choice flow) and integrated with the QuestionsController/DTOs to fetch questions and submit answers.
+🌐 Job Application Tracker
+
+Full-stack job search and tracking platform built with Java Spring Boot (backend) and React Native Web (Expo) (frontend).
+	•	Deployed on Microsoft Azure Static Web Apps with CI/CD via GitHub Actions.
+	•	Integrates RapidAPI for real-time job listings.
+	•	Supports saving and managing applied jobs locally using SQLite.
+
+🎮 Connect4Game
+
+.NET MAUI desktop game featuring custom UI, sound effects, and an AI opponent using heuristic strategies.
+
+🧠 QuizIt
+
+Team project: React frontend + ASP.NET Core API + PostgreSQL.
+Led frontend development (category picker, multiple-choice flow) and integrated with backend controllers/DTOs.
 
 ---
 
