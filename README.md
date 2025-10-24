@@ -42,6 +42,7 @@ Led frontend development (category picker, multiple-choice flow) and integrated 
 
 ---
 
+
 ## 🌱 Currently Learning
 - Advanced **C# and .NET design patterns**  
 - **React Native with TypeScript** for cross-platform apps  
@@ -51,7 +52,8 @@ Led frontend development (category picker, multiple-choice flow) and integrated 
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeromecagado)  
-- 📧 jerome.cagado@outlook.com 
+- 📧 jerome.cagado@outlook.com
+-  🎥 [YouTube – JeromeTheCoder](https://www.youtube.com/@JeromeTheCoder)
 
 ---
 ⭐️ Thanks for visiting my profile!
